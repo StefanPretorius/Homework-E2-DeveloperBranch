@@ -4,3 +4,5 @@ sum = val1 + val2
 print(sum)
 prod = val1 * val2
 print(prod)
+minus = val1 - val2
+print(minus)
