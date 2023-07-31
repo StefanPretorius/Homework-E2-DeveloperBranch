@@ -1,5 +1,6 @@
-val1 =5
-val2 = 3
+val1 = int(input("Please enter the first number: "))
+val2 = int(input("Please enter the second number: "))
+
 sum = val1 + val2
 print(sum)
 prod = val1 * val2
